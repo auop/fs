@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/WbUUT9t.png" tvg-country="TW" tvg-url="" group-title="",Fox Sports
-https://auop.github.io/fs/fs1.html
+http://bit.ly/ptt_fs1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/nWl7hzg.png" tvg-country="TW" tvg-url="" group-title="",Fox Sports 2
-https://auop.github.io/fs/fs2.html
+http://bit.ly/ptt_fs2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/FaMAhD6.png" tvg-country="TW" tvg-url="" group-title="",Fox Sports 3
-https://auop.github.io/fs/fs3.html
+http://bit.ly/ptt_fs3
